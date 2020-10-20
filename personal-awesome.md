@@ -15,9 +15,8 @@
 
 <!-- markdown-toc end -->
 
-## Terminal/CLI
 
-### Linux
+## Linux::apps
 - [gogh](https://github.com/Mayccoll/Gogh) Choose from a variety of great looking color schemes for your terminal.
 - [curseradio](https://github.com/chronitis/curseradio) A terminal app for listening to internet radio stations.
 - [oh-my-zsh](https://ohmyz.sh/) A framework for extending zsh will plugins and additional features.
@@ -30,6 +29,13 @@
 - [cmatrix](https://github.com/abishekvashok/cmatrix)
 - [asciiquarium](https://github.com/cmatsuoka/asciiquarium)
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh)
+
+### Windows::apps
+- [chocolatey](https://chocolatey.org/) Mature package management system for Windows. GUI frontends are available as well. 
+- [spacesniffer](http://www.uderzo.it/main_products/space_sniffer/) My goto disk usage visualization app. Easily locate the data that is taking up all your disks.
+- [geek uninstaller](https://geekuninstaller.com/) Portable and lightweight uninstaller for Windows. It gets rid of all of the extra crud that is left behind by uninstalling via control panel.
+- [cmder](https://cmder.net/) Based on ConEmu, cmder is a Windows terminal emulator that comes prepackaged with sane defaults and can easily be customized.
+
 
 
 ## Cybersecurity
