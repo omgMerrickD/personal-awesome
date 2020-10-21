@@ -32,11 +32,9 @@
 
 ### Windows::apps
 - [chocolatey](https://chocolatey.org/) Mature package management system for Windows. GUI frontends are available as well. 
-- [spacesniffer](http://www.uderzo.it/main_products/space_sniffer/) My goto disk usage visualization app. Easily locate the data that is taking up all your disks.
+m [spacesniffer](http://www.uderzo.it/main_products/space_sniffer/) My goto disk usage visualization app. Easily locate the data that is taking up all your disks.
 - [geek uninstaller](https://geekuninstaller.com/) Portable and lightweight uninstaller for Windows. It gets rid of all of the extra crud that is left behind by uninstalling via control panel.
 - [cmder](https://cmder.net/) Based on ConEmu, cmder is a Windows terminal emulator that comes prepackaged with sane defaults and can easily be customized.
-
-
 
 ## Cybersecurity
 
@@ -49,4 +47,15 @@
 ## Programming
 
 ## Networking
+
+## Web Development
+
+### Static Site Generators
+#### Jekyll
+- [jekyll](https://jekyllrb.com) Static site generator built with Ruby. Create content with markdown.
+##### Jekyll Themes
+- [hyde](https://jekyll-themes.com/hyde/)
+
+  -  
+- [hugo](https://gohugo.io) Static site generator built with Go.
 
