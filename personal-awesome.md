@@ -23,17 +23,19 @@
 - [bat](https://github.com/sharkdp/bat) A great replacement for cat with syntax highlighting, themes, and more.
 - [exa](https://github.com/ogham/exa) 'exa' is a modern replacement for 'ls'. I like it because of the pretty colors and the glyphs/icons.
 - [micro](https://micro-editor.github.io/) An excellent text editor for those that haven't embraced 'vim' or 'emacs' yet. Uses familiar keystrokes like ctrl+f, ctrl+s, etc.
-- [spacevim](https://spacevim.org/) 
-- [spacemacs](https://www.spacemacs.org/)
-- [doomemacs](https://github.com/hlissner/doom-emacs)
-- [cmatrix](https://github.com/abishekvashok/cmatrix)
-- [asciiquarium](https://github.com/cmatsuoka/asciiquarium)
-- [pipes.sh](https://github.com/pipeseroni/pipes.sh)
+- [spacevim](https://spacevim.org/) 'vim' framework that makes your leader key your spacebar, hence the name `spacevim`. Lots of options. 
+- [spacemacs](https://www.spacemacs.org/) The best editor is neither `vim` nor `emacs`. Has a learning curve, but it's worth it.
+- [doomemacs](https://github.com/hlissner/doom-emacs) Similar to `spacemacs` but not as much bloat. But apparently you can make it bloated if you want to.
+- [cmatrix](https://github.com/abishekvashok/cmatrix) This won't turn you into Neo, but you'll feel pretty cool.
+- [asciiquarium](https://github.com/cmatsuoka/asciiquarium) Turns your terminal into a fish tank.
+- [pipes.sh](https://github.com/pipeseroni/pipes.sh) Terminal "screensaver" that draws random pipes.
 - [jrnl.sh](https://jrnl.sh/) Terminal centric journaling application. 
+- [rofi](https://github.com/davatorium/rofi/) An application launcher, window switcher, and dmenu replacement.
+- [ulauncher](https://ulauncher.io) Application launcher similar to `rofi`.
 
 ### Windows::apps
 - [chocolatey](https://chocolatey.org/) Mature package management system for Windows. GUI frontends are available as well. 
-m [spacesniffer](http://www.uderzo.it/main_products/space_sniffer/) My goto disk usage visualization app. Easily locate the data that is taking up all your disks.
+- [spacesniffer](http://www.uderzo.it/main_products/space_sniffer/) My goto disk usage visualization app. Easily locate the data that is taking up all your disks.
 - [geek uninstaller](https://geekuninstaller.com/) Portable and lightweight uninstaller for Windows. It gets rid of all of the extra crud that is left behind by uninstalling via control panel.
 - [cmder](https://cmder.net/) Based on ConEmu, cmder is a Windows terminal emulator that comes prepackaged with sane defaults and can easily be customized.
 
