@@ -29,6 +29,7 @@
 - [cmatrix](https://github.com/abishekvashok/cmatrix)
 - [asciiquarium](https://github.com/cmatsuoka/asciiquarium)
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh)
+- [jrnl.sh](https://jrnl.sh/) Terminal centric journaling application. 
 
 ### Windows::apps
 - [chocolatey](https://chocolatey.org/) Mature package management system for Windows. GUI frontends are available as well. 
