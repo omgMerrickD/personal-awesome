@@ -33,11 +33,23 @@
 - [rofi](https://github.com/davatorium/rofi/) An application launcher, window switcher, and dmenu replacement.
 - [ulauncher](https://ulauncher.io) Application launcher similar to `rofi`.
 
+## Text and Code Editors
+- [onivim](https://onivim.io) Onivim is a retro-futuristic modal editor combining Vim-style modal editing with the aesthetics and language features of modern editors.
+- [spacemacs](https://spacemacs.org) Spacemacs is an Emacs framework with lots of built in packages and very extensible.
+- [doomemacs](https://github.com/hlissner/doom-emacs) Similar to Spacemacs but much lighter weight.
+- [spacevim](https://spacevim.org) A community-drive Vim distribution. Utilizes the spacebar as the leader key, hence the name.
+- [vscode](https:/vscode.com) Microsoft's modern, open-source code editor.
+- [vscodium]
+- [vspacecode]
+
 ### Windows::apps
 - [chocolatey](https://chocolatey.org/) Mature package management system for Windows. GUI frontends are available as well. 
 - [spacesniffer](http://www.uderzo.it/main_products/space_sniffer/) My goto disk usage visualization app. Easily locate the data that is taking up all your disks.
 - [geek uninstaller](https://geekuninstaller.com/) Portable and lightweight uninstaller for Windows. It gets rid of all of the extra crud that is left behind by uninstalling via control panel.
 - [cmder](https://cmder.net/) Based on ConEmu, cmder is a Windows terminal emulator that comes prepackaged with sane defaults and can easily be customized.
+
+### ASCII
+- [figlet](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20) Uses `figlet` to generate fun ASCII text from your text.
 
 ## Cybersecurity
 
@@ -53,12 +65,19 @@
 
 ## Web Development
 
+### Digital Gardens
+- [What is a digital garden?](https://joelhooks.com/digital-garden) A brief overview of digital gardens.
+- [reddit.com/r/DigitalGardens] Sub-reddit devoted to discussing digital gardens.
+- [roam](https://nesslabs.com/roam-research-alternatives) Roam Research is commercial note-taking tool for networked thought.
+- [roam-alternatives](https://nesslabs.com/roam-research-alternatives) Open source and self-hosted alternatives to Roam Research.
+- [obsidian.md](https://obsidian.md) Obsidian is a powerful knowledge base that works on top of a local folder of plain text Markdown files.
+
 ### Static Site Generators
 #### Jekyll
 - [jekyll](https://jekyllrb.com) Static site generator built with Ruby. Create content with markdown.
 ##### Jekyll Themes
 - [hyde](https://jekyll-themes.com/hyde/)
 
-  -  
+#### Hugo
 - [hugo](https://gohugo.io) Static site generator built with Go.
 
