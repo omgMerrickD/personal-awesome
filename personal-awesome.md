@@ -67,7 +67,7 @@
 
 ### Digital Gardens
 - [What is a digital garden?](https://joelhooks.com/digital-garden) A brief overview of digital gardens.
-- [reddit.com/r/DigitalGardens] Sub-reddit devoted to discussing digital gardens.
+- [/r/DigitalGardens](https://reddit.com/r/DigitalGardens) Sub-reddit devoted to discussing digital gardens.
 - [roam](https://nesslabs.com/roam-research-alternatives) Roam Research is commercial note-taking tool for networked thought.
 - [roam-alternatives](https://nesslabs.com/roam-research-alternatives) Open source and self-hosted alternatives to Roam Research.
 - [obsidian.md](https://obsidian.md) Obsidian is a powerful knowledge base that works on top of a local folder of plain text Markdown files.
